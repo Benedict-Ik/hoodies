@@ -277,7 +277,7 @@ li{
     color: #fff;
 }
 
-li a.active{
+li.active{
     font-size: 2rem;
 }
 
