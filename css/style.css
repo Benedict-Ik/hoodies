@@ -297,7 +297,7 @@ li.active{
     font-size: 2rem;
     line-height: 3rem;
     font-weight: lighter;
-    color: rgba(255, 255, 255, 0.822);
+    color: rgba(255, 255, 255, 0.9);
 }
 
 .paragraph__underline{
