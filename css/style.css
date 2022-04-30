@@ -248,6 +248,20 @@ li{
     flex-direction: column;
     width: 50%;
     margin-top: 1rem;
+    animation-duration: 3s;
+    animation-name: slidein1;
+}
+
+
+@keyframes slidein1 {
+    0% {
+        margin-right: 50%;
+        width: 50%;
+    }
+    100%{
+        margin-right: 0%;
+        width: 100%;
+    }
 }
 
 .text__number{
