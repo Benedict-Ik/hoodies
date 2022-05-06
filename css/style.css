@@ -228,7 +228,7 @@ li{
     flex-direction: column;
     width: 50%;
     margin-top: 1rem;
-    animation: slidein1 1.2s;
+    animation: slidein1 1s ease-in;
 }
 
 @keyframes slidein1 {
@@ -276,7 +276,7 @@ li.active{
     display: flex;
     flex-direction: column;
     width: 50%;
-    animation: slidein2 1.2s;
+    animation: slidein2 1s ease-in;
 }
 
 @keyframes slidein2 {
