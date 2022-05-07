@@ -4,7 +4,7 @@
   "description": "This is an implementation of the design below",
   "main": "index.js",
   "scripts": {
-    "start": "http-server"
+    "start": "http-server ."
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Benedict-Ik/hoodies/issues"
   },
-  "homepage": "https://github.com/Benedict-Ik/hoodies#readme"
+  "homepage": "https://github.com/Benedict-Ik/hoodies#readme",
+  "dependencies": {
+    "http-server": "^14.1.0"
+  }
 }
