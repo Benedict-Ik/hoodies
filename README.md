@@ -12,4 +12,5 @@ To use on your device, do the following:
 
 1) Clone or download repository
 2) Navigate to the folder on your local machine
-3) Run http://localhost:8080/ in your browser
+3) Type "http-server ." in terminal
+4) Run http://localhost:8080/ in your browser
