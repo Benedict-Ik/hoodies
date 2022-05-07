@@ -13,4 +13,4 @@ To use on your device, do the following:
 1) Clone or download repository
 2) Navigate to the folder on your local machine in terminal
 3) Type "http-server ." in terminal
-4) Run http://localhost:8080/hoodies-master/ or http://127.0.0.1:8080/hoodies-master/ in your browser
+4) Run http://localhost:8080/index.html or http://127.0.0.1:8080/index.html in your browser
