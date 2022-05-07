@@ -12,6 +12,4 @@ To use on your device, do the following:
 
 1) Clone or download repository
 2) Navigate to the folder on your local machine
-3) Type "npm install" in terminal to install devDependencies stated in your package.json file. You should have access to the internet.
-3) Then finally "npm start" also in your terminal
-4) Run http://localhost:8080/ in your browser
+3) Run http://localhost:8080/ in your browser
